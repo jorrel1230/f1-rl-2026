@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Training artifacts
+checkpoints/
+best_model/
+eval_logs/
+eval_gifs/
+*.zip
+*.pkl
+
+# Output files
+*.gif
+*.png
+
+# IDE
+.vscode/
+.idea/
